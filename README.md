@@ -45,16 +45,27 @@ A análise por país evidenciou diferenças relevantes entre populações, indic
 O projeto foi organizado de forma sequencial e estruturada:
 
 Definição do Problema: Contextualização e definição do objetivo da análise;
+
 Carga de Dados: Importação do dataset;
+
 Análise Exploratória (EDA):
+
 Estatísticas descritivas (média, mediana, desvio padrão);
+
 Visualizações (histogramas, boxplots e matriz de correlação);
+
 Tratamento de Dados:
+
 Verificação de valores nulos e duplicados;
+
 Remoção de variáveis irrelevantes;
+
 Pré-processamento:
+
 Criação de novas variáveis (ex: década);
+
 Padronização de nomes de colunas;
+
 Preparação geral dos dados para análise.
 
 ### 6- Considerações Finais
