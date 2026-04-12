@@ -3,8 +3,11 @@
 Projeto final da disciplina Análise de Dados e Boas Práticas do MBA PUC-RJ em Ciências de Dados.
 
 Nome: Lucas Dantas Matos Vidal
+
 Matrícula: 4052025002493
+
 Dataset: Mental Health (https://www.kaggle.com/datasets/imtkaggleteam/mental-health/data)
+
 Versão Google Colab: https://colab.research.google.com/drive/14nz9lBWlhzd34Hs8pdQXWZh4ArPBdS0W#scrollTo=cmYX3PLx58Jg
 
 ## 📊 Mental Health Analysis – EDA e Pré-processamento
