@@ -6,7 +6,7 @@ Projeto final da disciplina **Análise de Dados e Boas Práticas** do MBA PUC-RJ
 **Matrícula:** 4052025002493  
 
 **Dataset:** [Mental Health - Kaggle](https://www.kaggle.com/datasets/imtkaggleteam/mental-health/data)  
-**Versão Google Colab:** [Abrir Notebook](https://colab.research.google.com/drive/14nz9lBWlhzd34Hs8pdQXWZh4ArPBdS0W#scrollTo=cmYX3PLx58Jg)
+**Versão Google Colab:** [Abrir Notebook](https://colab.research.google.com/github/lucasvidal21/puc-mvp-mental-health-analysis/blob/main/MVP_An%C3%A1lise_de_Dados_e_Boas_Pr%C3%A1ticas_(4052025002493_2026_01).ipynb)
 
 ---
 
