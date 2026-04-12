@@ -1,4 +1,4 @@
-# 📊 MVP Análise de Dados e Boas Práticas
+# MVP Análise de Dados e Boas Práticas
 
 Projeto final da disciplina **Análise de Dados e Boas Práticas** do MBA PUC-RJ em Ciência de Dados.
 
@@ -10,9 +10,9 @@ Projeto final da disciplina **Análise de Dados e Boas Práticas** do MBA PUC-RJ
 
 ---
 
-## 📊 Mental Health Analysis – EDA e Pré-processamento
+## Mental Health Analysis – EDA e Pré-processamento
 
-### 📋 1. Descrição do Projeto
+### 1. Descrição do Projeto
 
 Este projeto representa o **Minimum Viable Product (MVP)** da disciplina de Análise de Dados e Boas Práticas. O objetivo principal é analisar a prevalência de diferentes transtornos mentais ao longo do tempo e entre diferentes países, buscando identificar padrões, relações e variações nos dados.
 
@@ -20,7 +20,7 @@ Utilizando um dataset público contendo informações sobre transtornos mentais 
 
 ---
 
-### 🚀 2. Tecnologias Utilizadas
+### 2. Tecnologias Utilizadas
 
 - **Linguagem:** Python  
 - **Manipulação de Dados:** pandas, numpy  
@@ -30,7 +30,7 @@ Utilizando um dataset público contendo informações sobre transtornos mentais 
 
 ---
 
-### 💡 3. Hipóteses Analisadas
+### 3. Hipóteses Analisadas
 
 Durante a análise exploratória, foram avaliadas as seguintes hipóteses:
 
@@ -41,7 +41,7 @@ Durante a análise exploratória, foram avaliadas as seguintes hipóteses:
 
 ---
 
-### 📊 4. Principais Insights
+### 4. Principais Insights
 
 A análise dos dados permitiu identificar alguns pontos importantes:
 
@@ -53,7 +53,7 @@ A análise dos dados permitiu identificar alguns pontos importantes:
 
 ---
 
-### 🛠️ 5. Estrutura do Notebook (.ipynb)
+### 5. Estrutura do Notebook (.ipynb)
 
 O projeto foi organizado de forma sequencial:
 
@@ -72,7 +72,7 @@ O projeto foi organizado de forma sequencial:
 
 ---
 
-### 📌 6. Considerações Finais
+### 6. Considerações Finais
 
 O projeto permitiu compreender melhor o comportamento da prevalência de transtornos mentais em diferentes contextos.
 
